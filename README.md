@@ -1,6 +1,6 @@
 # Module-11-Challenge-Forecasting-Net-Prophet
 
-## Findings
+## Findings:
 - I used the `.groupby` and `.sum()` functions to calculate the traffic in May and the median monthly traffic. After comparing them, I found that the Google search traffic increased during the month that MercadoLibre released its financial results.
 ![Alt text](Images/traffic_increased_may.png)
 
