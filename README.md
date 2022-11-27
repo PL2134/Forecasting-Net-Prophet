@@ -1,6 +1,6 @@
 # Module-11-Challenge-Forecasting-Net-Prophet
 
-## This repo contains my module 11 challenge. My findings are as following:
+## Findings
 - I used the `.groupby` and `.sum()` functions to calculate the traffic in May and the median monthly traffic. After comparing them, I found that the Google search traffic increased during the month that MercadoLibre released its financial results.
 ![Alt text](Images/traffic_increased_may.png)
 
@@ -43,7 +43,7 @@
 ![Alt text](Images/sum_sales.png)
 
 
-## This challenge allowed me to demonstrate my skills with the following area:
+## Skills:
 - Prophet: Time Series Forecasting
 - Data Visualisation: hvplot
 - Data preperation: Pandas
